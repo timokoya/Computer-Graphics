@@ -1,0 +1,7 @@
+
+but if u want the activity to continue in the background then u must add this in the manifest
+
+
+http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/2.2_r1.1/com/android/internal/os/PowerProfile.java
+
+http://mobiledevtuts.com/android/android-sdk-get-device-battery-information/
